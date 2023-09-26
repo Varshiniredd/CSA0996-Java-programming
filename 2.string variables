@@ -1,0 +1,14 @@
+class Main {
+  public static void main(String[] args) {
+
+    // create string variables
+    String str = "1234";
+
+    // convert string to int
+    // using parseInt()
+    int num = Integer.parseInt(str);
+
+    // print int values
+    System.out.println(num);    
+  }
+}
